@@ -18,7 +18,8 @@
 </div>
 <div>
   <p>
-    Welcome, I'm Luis Felipe, i'm 19 years old and i'm studying multiplatform software development at college of tecnology of State of São Paulo.
+    Welcome to my profile, 
+    I am Luis Felipe i'm 19 years old and i'm studying multiplatform software development at college of tecnology of State of São Paulo.
   </p>
 </div>
 <div align="center">
