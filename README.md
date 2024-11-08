@@ -1,6 +1,6 @@
 <h1 align="center"> Github Stats </h1>
 <p align="center">
-  <a href="https://github.com/muskanrani/github-readme-stats">
+  <a href="https://github.com/luisfesantos/github-readme-stats">
     <img height="200px" src="https://github-readme-stats.vercel.app/api?username=luisfesantos&show_icons=true&theme=merko"/>
   </a>
 <!--
