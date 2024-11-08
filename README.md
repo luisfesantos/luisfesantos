@@ -13,13 +13,17 @@
 
 
 <h1 align="center" https://capsule-render.vercel.app/api?text=capsule_render&animation=twinkling> About me </h1>
-<p align="center">
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=main&width=100"/>
-</p>
-
-<p align="center">
+</div>
+<div>
+  <p>
+    Welcome, I'm Luis Felipe, i'm 19 years old and i'm studying multiplatform software development at college of tecnology of State of São Paulo.
+  </p>
+</div>
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&width=100"/>
-</p>
+</div>
 
 
 <!--
