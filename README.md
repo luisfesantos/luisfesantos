@@ -16,12 +16,10 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=main&width=100"/>
 </div>
-<div>
-  <p>
-    Welcome to my profile,
-    <br>
-    I am Luis Felipe i'm 19 years old and i'm studying multiplatform software development at college of tecnology of State of São Paulo.
-  </p>
+<div align="center">
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=FFFFFF&vCenter=true&width=500&lines=Hello+everyone%2C+I'm+Luis+Felipe;+I'm+a+Beginner+Software+Developer" alt="Typing SVG" />
+</a>
 </div>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&width=100"/>
