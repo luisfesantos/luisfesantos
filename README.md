@@ -20,6 +20,12 @@
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=FFFFFF&vCenter=true&width=500&lines=Hello+everyone%2C+I'm+Luis+Felipe;+I'm+a+Beginner+Software+Developer" alt="Typing SVG" />
 </a>
+  <div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{luisfesantos}/count.svg" /></p> 
+<br>
+</div>
+
 </div>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&width=100"/>
